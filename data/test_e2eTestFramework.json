@@ -1,0 +1,28 @@
+{
+
+  "data" : [
+    {
+      "filtrar_por" : "Tipo de fondo",
+      "tipo_fondo": "Deuda mutuos",
+      "mi_fondo_santander": "Ahorro Mediano Plazo"
+    },
+    {
+      "filtrar_por" : "Tipo de fondo",
+      "tipo_fondo": "Acciones Nacionales",
+      "mi_fondo_santander": "Acciones Selectas Chile"
+    }
+  ],
+  "data_2" : [
+    {
+      "filtro_radiobutton" : "Tipo de fondo",
+      "tipo_fondo": "Deuda mutuos",
+      "mi_fondo_santander": "Ahorro Mediano Plazo"
+    },
+    {
+      "filtro_radiobutton" : "Mis objetivos de inversión",
+      "tipo_fondo": "Acciones Nacionales",
+      "mi_fondo_santander": "Acciones Selectas Chile"
+    }
+  ]
+
+}
